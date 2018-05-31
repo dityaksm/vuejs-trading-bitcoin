@@ -1,3 +1,11 @@
+Technology used :
+ - Vuejs
+ - Vuex
+ - Vue-Router
+ - Vue-Resource
+ - Firebase Database
+ - Vue Filter
+
 # vue-cli
 
 > A Vue.js project
