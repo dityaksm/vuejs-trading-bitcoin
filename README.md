@@ -1,14 +1,21 @@
-Technology used :
+# Demo Project:
+> [Vue Trading Bitcoin](http://vuejs-experiment.s3-website-ap-southeast-1.amazonaws.com/).
+
+
+## Technology Used :
  - Vuejs
  - Vuex
  - Vue-Router
  - Vue-Resource
  - Firebase Database
  - Vue Filter
+ - AWS
 
-# vue-cli
+## JavaScript Framework
+> [VueJs](http://vuejs.org/).
 
-> A Vue.js project
+# My Profile
+> [Gema Akbar](https://www.linkedin.com/in/gema-akbar-663003145/)
 
 ## Build Setup
 
@@ -18,9 +25,4 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
